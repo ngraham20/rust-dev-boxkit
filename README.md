@@ -1,3 +1,4 @@
+# ARCHIVED! Development of this boxkit has moved to [dev-boxkits](https://github.com/ngraham20/dev-boxkits)
 # rusty-boxkit
 ## Features
 ### Rust development tools
